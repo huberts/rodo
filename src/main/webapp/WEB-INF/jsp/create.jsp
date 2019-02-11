@@ -3,6 +3,6 @@
 
 <t:main>
     <jsp:body>
-        <p>Gotowe. <a href="/">Wróć do listy spraw.</a></p>
+        <p>Gotowe. <a href="lista">Wróć do listy spraw.</a></p>
     </jsp:body>
 </t:main>
